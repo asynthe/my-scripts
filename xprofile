@@ -1,0 +1,8 @@
+# Keyboard Layout
+setxkbmap latam &
+
+# Wallpaper
+nitrogen --restore &
+
+# Compositor
+picom -f &
